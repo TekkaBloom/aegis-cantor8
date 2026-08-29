@@ -11,7 +11,7 @@
 
 ### Visual Layout
 * **Headline:** **Iron Flower Protocol**
-* **Sub-headline:** Decentralized Healthcare Logistics, WHO Clinical Triage & Confidential Settlement in Crisis & Conflict Zones.
+* **Sub-headline:** Decentralized Healthcare Logistics, Triage & Confidential Settlement in Crisis & Conflict Zones.
 * **Presenter:** Tanzil | Clinician & Clinical Regulatory Consultant
 * **Badges:** Built on Canton Network | Zero-Dependency Python 3 Engine | Tracks A1, A2 & N1 Hybrid.
 
